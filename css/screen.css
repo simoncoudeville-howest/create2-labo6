@@ -174,8 +174,9 @@ a:focus {
 */
 
 .o-row {
-    overflow: auto;
     padding: 24px 24px 0;
+    display: flex;
+    flex-direction: column;
 }
 
 .o-row--primary {

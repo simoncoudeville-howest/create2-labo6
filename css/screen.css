@@ -553,7 +553,7 @@ a:focus {
         flex-basis: calc(100% / 6) !important;
     }
     .u-5-of-6-bp1 {
-        flex-basis: 83.3333333333% !important;
+        flex-basis: calc(100% / 6 * 5) !important;
     }
 }
 
@@ -589,7 +589,7 @@ a:focus {
         flex-basis: calc(100% / 6) !important;
     }
     .u-5-of-6-bp2 {
-        flex-basis: 83.3333333333% !important;
+        flex-basis: calc(100% / 6 * 5) !important;
     }
 }
 
@@ -625,7 +625,7 @@ a:focus {
         flex-basis: calc(100% / 6) !important;
     }
     .u-5-of-6-bp3 {
-        flex-basis: 83.3333333333% !important;
+        flex-basis: calc(100% / 6 * 5) !important;
     }
 }
 
@@ -661,7 +661,7 @@ a:focus {
         flex-basis: calc(100% / 6) !important;
     }
     .u-5-of-6-bp4 {
-        flex-basis: 83.3333333333% !important;
+        flex-basis: calc(100% / 6 * 5) !important;
     }
 }
 

@@ -35,12 +35,6 @@ html {
  * Customize the background color to match your design.
  */
 
-::-moz-selection {
-    background: #e85e00;
-    color: white;
-    text-shadow: none;
-}
-
 ::selection {
     background: #e85e00;
     color: white;
@@ -219,14 +213,11 @@ a:focus {
 */
 
 .o-layout {
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
     flex-wrap: wrap;
 }
 
     .o-layout__item {
-        /* width: 100%; */
         flex-basis: 100%;
     }
 
